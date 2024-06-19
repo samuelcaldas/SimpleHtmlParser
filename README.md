@@ -8,7 +8,7 @@ Simple HTML Parser is a lightweight Python library designed to extract content f
 - Easy-to-use interface with clear error messages.
 - Unit tests included for reliability.
 
-## Installation
+## Installation (WIP)
 
 To install Simple HTML Parser, simply run:
 
